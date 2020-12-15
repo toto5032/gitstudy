@@ -4,3 +4,6 @@ git config --global user.name
 git config user.email 
 git config --global user.email 
 cat ~/.gitconfig
+
+cd <work-dir>
+git init
