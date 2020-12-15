@@ -1,0 +1,15 @@
+## git bash
+
+git log 
+
+git reset --hard | soft | mixed
+
+git revert ##history write
+
+
+## git hub
+
+
+
+
+
