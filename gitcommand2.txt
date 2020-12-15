@@ -1,0 +1,8 @@
+git clone <github-remote-url>
+
+
+1. git pull
+2. touch aaa.txt
+3. git add --all
+4. git commit -am "clone repository"
+5. git push
