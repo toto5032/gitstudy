@@ -1,0 +1,8 @@
+git branch <branch-name>
+git branch #browse branch
+git checkout <branch-name>
+
+
+git branch #local
+git branch -r #server
+git branch -a #local+server
