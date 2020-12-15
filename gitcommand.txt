@@ -7,3 +7,12 @@ cat ~/.gitconfig
 
 cd <work-dir>
 git init
+.gitignore file add
+git add -all
+git add <file name> or git add .
+git commit -am "remark"
+git remote add origin <git-remote-url>
+git push -u origin master
+git push -fu origin master #force mode
+got log
+git status #staging log check
